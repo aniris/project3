@@ -1,0 +1,14 @@
+icc-rt
+intel-numpy
+intel-openmp
+joblib
+lightgbm
+mkl
+mkl-fft
+mkl-random
+numpy
+scikit-learn
+scipy
+tbb
+tbb4py
+threadpoolctl
